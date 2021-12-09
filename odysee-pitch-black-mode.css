@@ -1,0 +1,82 @@
+/*
+Author: Sandro Linux
+License: GPL 3.0
+Decription: A proper dark mode for Odysee!
+*/
+/* Sets the stand code to black */
+body {
+    background-color: black;
+}
+/* Makes the header black */
+[dir] .header {
+   background-color: black;
+}
+/* Makes the header black */
+[dir] .main {
+    background-color: black;
+}
+/* Makes widget for videos on homepages black */
+[dir] .claim-preview--tile {
+    background-color: black;
+}
+/* Makes widget for videos on homepages black */
+[dir] .menu__list--header {
+    background-color: black;
+}
+/* This makes the navigation buttons turn black */
+[dir] .navigation-link {
+    background-color: black;
+}
+/* Makes search input on homepage black */ 
+[dir] .wunderbar__input {
+    background-color: black;
+}
+/* Makes search input on channel page black */ 
+[dir] .wunderbar__input--inline {
+    background-color: black;
+}
+/* Makes search suggestions on homepage black */ 
+[dir] .wunderbar__suggestions {
+    background-color: black;
+}
+/* Makes sidebar navigation black */ 
+[dir] .header__navigation-item {
+    background-color: black;
+}
+/* This makes the widgets on a Odysee video page turn black. This includes the description and title under the video; it also includes the comment section and the releated */
+[dir] .card {
+    background-color: black;
+}
+[dir] .draggable.content__info {
+    background-color: black;
+}
+[dir] #content_description {
+    background-color: black;
+}
+[dir] #channel {
+    background-color: black;
+}
+[dir] .button {
+    background-color: black;
+}
+[dir] .tabs__list {
+    background-color: black;
+}
+[dir] .channel__list-item {
+    background-color: black;
+}
+/* Makes notication area black */ 
+[dir] .notification__wrapper {
+    background-color: black;
+}
+/* Makes filter button black */ 
+[dir] #filter {
+    background-color: black;
+}
+
+[dir] .menu__button.claim__menu-button--inline{
+    background-color: black;
+}
+[dir] .menu__list{
+    background-color: black;
+}
