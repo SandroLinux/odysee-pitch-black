@@ -39,7 +39,7 @@ body {
 [dir] .wunderbar__suggestions {
     background-color: black;
 }
-/* Makes sidebar navigation black */ 
+/* Makes settings and upload buttons black */ 
 [dir] .header__navigation-item {
     background-color: black;
 }
@@ -47,21 +47,26 @@ body {
 [dir] .card {
     background-color: black;
 }
+
 [dir] .draggable.content__info {
     background-color: black;
 }
 [dir] #content_description {
     background-color: black;
 }
+/* This makes the "comment as" button black */
 [dir] #channel {
     background-color: black;
 }
+/* This makes navigation, background of the logo black, "your wallet" button black and the background of channel icons and titles on homepage */
 [dir] .button {
     background-color: black;
 }
+/* This makes navigation, background of the logo black, "your wallet" button black and the background of channel icons and titles on homepage */
 [dir] .tabs__list {
     background-color: black;
 }
+/* This makes the channel list button on the creator anayltics button*/
 [dir] .channel__list-item {
     background-color: black;
 }
@@ -73,10 +78,11 @@ body {
 [dir] #filter {
     background-color: black;
 }
-
-[dir] .menu__button.claim__menu-button--inline{
+/* Makes the three dots on the channel page black*/
+[dir] .menu__button.claim__menu-button--inline {
     background-color: black;
 }
-[dir] .menu__list{
+/* Makes the three dots menu on the channel page black*/
+[dir] .menu__list {
     background-color: black;
 }
